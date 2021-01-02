@@ -1,0 +1,11 @@
+readhost=192.168.8.105
+readport=5432
+readdatabase=climadb
+readusername=databaseusername
+readpassword=supersecret
+
+writehost=192.168.8.105
+writeport=5432
+writedatabase=climadb
+writeusername=databaseusername
+writepassword=supersecret
