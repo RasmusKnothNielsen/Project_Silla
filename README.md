@@ -30,7 +30,7 @@ And in\
 #### Silla also supports raw SQL queries
 ![Raw SQL Queries](/Screenshots/12.RawSQLSearch.png?raw=true "12.RawSQLSearch.png")
 
-#### These queries updates in real time with search condition changes
+#### These queries update in real time when search conditions change
 ![Raw SQL updates when search conditions change](/Screenshots/13.AlteredSQLSearchWithSeries.png?raw=true "13.AlteredSQLSearchWithSeries.png")
 
 
