@@ -18,8 +18,16 @@ And in\
 #### Searching with Silla
 ![Searching With Silla](/Screenshots/01.SearchingWIthSilla.png?raw=true "01.SearchingWIthSilla.png")
 
+As seen in this screenshot, Silla also supports an option for showing empty synops, 
+meaning displaying rows even when no data is present in the database.
+The SQL query for this feature can be seen in the last screenshot.
+
+
 #### Displaying results in a DataTable
 ![Displaying results in a DataTable](/Screenshots/02.ResultTable.png?raw=true "02.ResultTable.png")
+
+This DataTable is 100% generic, getting information about how many columns and names of them from the database.
+Furthermore each cell contains relevant metadata that can be accessed by hovering over each cell for some time.
 
 #### Putting values in cart for Quality Control or Exclusion
 ![Putting values in cart for Quality Control](/Screenshots/08.ValuesAddedToCart.png?raw=true "08.ValuesAddedToCart.png")
