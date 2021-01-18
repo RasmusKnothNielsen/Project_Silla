@@ -1,9 +1,9 @@
 # Silla
 ### This application is developed by:
-Niki Ryom Hansen - nikiryom@gmail.com\
-Rasmus Knoth Neldeborg - rasmus@neldeborg.com\
-Knud Billing - knudjbilling@gmail.com\
-Thomas Dahl - mail@thomasdahl.one
+Niki Ryom Hansen - nikiryom at gmail dot com\
+Rasmus Knoth Neldeborg - rasmus at neldeborg dot com\
+Knud Billing - knudjbilling at gmail dot com\
+Thomas Dahl - mail at thomasdahl dot one
 
 This project is developed as a final Examproject for AP in Computer Science, KEA.
 
