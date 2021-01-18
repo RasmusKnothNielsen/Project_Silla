@@ -122,6 +122,6 @@
     <properties>
         <jersey.version>2.32</jersey.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <jetty.version>9.0.6.v20130930</jetty.version>
+        <jetty.version>11.0.0</jetty.version>
     </properties>
 </project>
